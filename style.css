@@ -1,3 +1,11 @@
 .navbar *> li:hover {
 color: yellow;
 }
+.navbar-nav{
+text-align: center;
+z-index: 1;
+}
+.dropdown-menu{
+    text-align: center;
+    z-index: 1;
+}
