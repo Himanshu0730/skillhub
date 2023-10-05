@@ -1,0 +1,13 @@
+.col{
+    width: 17rem;
+    height: 15rem;
+}
+.row{
+    justify-content: center;
+    flex-basis: auto;
+}
+.photoo{
+    max-width: 100%; 
+  max-height: 100%; 
+  object-fit: cover; 
+}
