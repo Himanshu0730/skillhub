@@ -9,3 +9,14 @@ z-index: 1;
     text-align: center;
     z-index: 1;
 }
+@media (max-width: 768px) {
+    .navbar-nav{
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    
+    }
+  }
+  
